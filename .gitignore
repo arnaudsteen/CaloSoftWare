@@ -6,7 +6,6 @@ build/
 lib/
 source/src/*/*~
 source/include/*/*~
-*.cmake
 include/
 source/include/Eigen
 source/include/Eigen/*
